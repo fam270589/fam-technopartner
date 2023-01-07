@@ -1,0 +1,20 @@
+.title {
+  max-width: 100%;
+  min-width: 27rem;
+	background-color: white;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  padding-block: 1rem;
+}
+
+.filter {
+  max-width: 27rem;
+  display: flex;
+  gap: 1rem;
+}
+
+.item {
+  width: 15rem;
+}
